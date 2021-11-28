@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Available for Freelance projects!
 -->
+
+Hello! I'm a web developer, based in Rio de Janeiro, Brazil.
+
+- ⚡ I'm currently working at BGC Brasil
+- 🔭 I’m working with React, Redux and Storybook
+- 🌱 Learning about CSS-in-JS and other frontend frameworks
+- 💬 Talk to me about development, code reviews, and stardew valley
+- 📫 How to reach me: leticia.vna@gmail.com (but hey, pro-tip, you can basically find me in social medias with my username **leticiavna** 😉 )
+- ⚡ Fun fact: I'm trying to be fluent in french!
