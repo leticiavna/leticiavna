@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Available for Freelance projects!
 -->
 
-Hello! I'm a web developer, based in Rio de Janeiro, Brazil.
+Hello! I'm a developer, based in Rio de Janeiro, Brazil.
 
 - ⚡ I'm currently working at BGC Brasil
-- 🔭 I’m working with React, Redux and Storybook
+- 🔭 I’m working with Typescript, React, Redux, and Storybook
 - 🌱 Learning about CSS-in-JS and other frontend frameworks
-- 💬 Talk to me about development, code reviews, and stardew valley
+- 💬 Talk to me about development, code reviews, stardew valley and animal crossing
 - 📫 How to reach me: leticia.vna@gmail.com (but hey, pro-tip, you can basically find me in almost every social media with my username **leticiavna** 😉 )
-- ⚡ Fun fact: I'm trying to be fluent in french!
+- 💬 I'm currently trying to be fluent in french and I like to learn new languages 😄
