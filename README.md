@@ -22,5 +22,4 @@ Hello! I'm a developer, based in Rio de Janeiro, Brazil.
 - 🔭 I’m working with Typescript, React, Redux, and Storybook
 - 🌱 Learning about CSS-in-JS and other frontend frameworks
 - 💬 Talk to me about development, code reviews, stardew valley and animal crossing
-- 📫 How to reach me: leticia.vna@gmail.com (but hey, pro-tip, you can basically find me in almost every social media with my username **leticiavna** 😉 )
-- 💬 I'm currently trying to be fluent in french and I like to learn new languages 😄
+- 📫 How to reach me: leticia.vna@gmail.com
