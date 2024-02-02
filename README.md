@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ⚡ Available for Freelance projects!
+
+🔭 I’m working with Typescript, React, Redux, and Storybook
+🌱 Learning about CSS-in-JS and other frontend frameworks
+💬 Talk to me about development, code reviews, stardew valley and animal crossing
 -->
 
 Hello! I'm a developer, based in Rio de Janeiro, Brazil.
-
-- 🔭 I’m working with Typescript, React, Redux, and Storybook
-- 🌱 Learning about CSS-in-JS and other frontend frameworks
-- 💬 Talk to me about development, code reviews, stardew valley and animal crossing
-- 📫 How to reach me: leticia.vna@gmail.com
+📫 How to reach me: leticia.vna@gmail.com
